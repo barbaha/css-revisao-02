@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: arial;
+}
+
+.container{
+	width: 80%;
+	height: 100%;
+	margin-right: 10%;
+	display: flex;
+	margin-left: 10%;
+}
+
+h1{
+	margin: 5% 0 3% 0;
+}
+
+P{
+margin: 5% 0;
+}
+
+.fotos > img{
+	width: 30%;
+	margin-left: 2%;
+}
+
+footer{
+	width: 80%;
+	height: 20%;
+	bottom: 0;
+	position: fixed;
+	text-align: center;
+
+}

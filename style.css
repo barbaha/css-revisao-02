@@ -1,0 +1,45 @@
+p{
+	margin: 25px, 50px, 75px, 100px;
+	width: 300px;
+}
+
+.pum{
+	border-style: solid;
+	border-width: 5px;
+	border-color: pink;
+	border-radius: 8px;
+	background-color: pink;
+}
+
+.pdois{
+	border-style: solid;
+	border-color: green;
+	background-color: green;
+}
+
+.ptres{
+	border-style: dotted;
+	border-color: yellow;	
+	border-width: 2px;
+	background-color: yellow;
+}
+
+.pquatro{
+	border-style: dotted;
+	border-color: blue;
+	background-color: blue;			
+}
+
+.pcinco{
+	border-style: double;
+	border-color: red;	
+	border-width: 10px;
+	background-color: red;
+}
+
+.pseis{
+	border-style: solid;
+	border-color: orange;	
+	border-width: 2px 7px 5px 15px;	
+	background-color: orange;	
+}
